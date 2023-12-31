@@ -1,4 +1,4 @@
-# Model Validator| React components
+# Model Validator | React components
 
 Project Helper for Model Validator - a basic set of UI components, React, to use.
 
