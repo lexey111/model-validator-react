@@ -2,6 +2,13 @@
 
 Project Helper for Model Validator - a basic set of UI components, React, to use.
 
+### Installation
+
+* `npm install -D lx-model-validator`
+* `npm install -D lx-model-validator-react`
+
+### Usage
+
 For sure, you can use raw Model Validator functions, but I find it more convenient to have common react components for common tasks.
 
 This package is for them. Just bindings: _headless_ components that use Model Validator helpers.

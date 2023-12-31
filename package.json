@@ -1,6 +1,6 @@
 {
   "name": "lx-model-validator-react",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React headless components for model-validator",
   "main": "src/index.ts",
   "private": false,
