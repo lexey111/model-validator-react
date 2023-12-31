@@ -1,6 +1,6 @@
 import React from "react";
 
-import {TValidationResult} from 'model-validator';
+import {TValidationResult} from 'lx-model-validator';
 
 export type TValidationTooltipComponentProps = {
 	field: string

@@ -1,6 +1,6 @@
 import React from "react";
 
-import {TValidationResult} from 'model-validator';
+import {TValidationResult} from 'lx-model-validator';
 import {ValidationMessageComponent} from "./validation-message.component.tsx";
 
 export type TValidationErrorMessageComponentProps = {

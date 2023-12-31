@@ -1,6 +1,6 @@
 import React from "react";
 
-import {TValidationResult, TViolation} from 'model-validator';
+import {TValidationResult, TViolation} from 'lx-model-validator';
 
 export type TValidationMessageComponentProps = {
 	type?: 'error' | 'warning' | 'notice'
