@@ -1,0 +1,22 @@
+{
+  "name": "model-validator-react",
+  "version": "1.0.0",
+  "description": "React headless components for model-validator",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "model-validator",
+    "react",
+    "bindings",
+    "components"
+  ],
+  "author": "Oleksii Koshkin",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/react": "^18.2.46",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  }
+}
