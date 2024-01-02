@@ -8,7 +8,10 @@ Project Helper for Model Validator - a basic set of UI components, React, to use
 * `npm install -D lx-model-validator-react`
 
 ### Demo
+
 [Demo page](https://lexey111.github.io/home)
+
+[Medium article](https://lexeykoshkin.medium.com/model-validation-814b2dff65e8)
 
 ### Usage
 
